@@ -1,0 +1,12 @@
+{
+    "name": "EnemyAD",
+    "references": [
+        "PlayerAD"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "LinuxStandaloneUniversal"
+    ],
+    "allowUnsafeCode": false
+}
